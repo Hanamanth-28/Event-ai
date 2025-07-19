@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Event Management with AI Assistance project
 
 ## Project info
 
